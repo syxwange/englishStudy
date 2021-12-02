@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>829</width>
+    <height>493</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="verticalLayout"/>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>829</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="geometry">
+     <rect>
+      <x>345</x>
+      <y>101</y>
+      <width>121</width>
+      <height>115</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string> 英  语 </string>
+    </property>
+    <addaction name="actWords"/>
+    <addaction name="actCustom"/>
+    <addaction name="actSetting"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actWords">
+   <property name="text">
+    <string>随机单词 </string>
+   </property>
+  </action>
+  <action name="actSetting">
+   <property name="text">
+    <string>设 置</string>
+   </property>
+   <property name="iconText">
+    <string> 设 置</string>
+   </property>
+  </action>
+  <action name="actCustom">
+   <property name="text">
+    <string>自定义单词</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

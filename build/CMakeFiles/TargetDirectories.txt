@@ -1,0 +1,4 @@
+D:/wg/work/EnglishStudy/cppSrc/build/CMakeFiles/edit_cache.dir
+D:/wg/work/EnglishStudy/cppSrc/build/CMakeFiles/untitled.dir
+D:/wg/work/EnglishStudy/cppSrc/build/CMakeFiles/rebuild_cache.dir
+D:/wg/work/EnglishStudy/cppSrc/build/CMakeFiles/untitled_autogen.dir

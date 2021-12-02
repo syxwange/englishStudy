@@ -1,0 +1,52 @@
+[
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\untitled_autogen\\mocs_compilation.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\build\\untitled_autogen\\mocs_compilation.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/build/untitled_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\cenglishstudy.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\cenglishstudy.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/cenglishstudy.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\common.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\common.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/common.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\main.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\main.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/main.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\widget\\CCustomWords.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\widget\\CCustomWords.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/widget/CCustomWords.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\widget\\cwordstudywidget.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\widget\\cwordstudywidget.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/widget/cwordstudywidget.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\widget\\englishsettingwidget.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\widget\\englishsettingwidget.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/widget/englishsettingwidget.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\widget\\mainWindow.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\widget\\mainWindow.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/widget/mainWindow.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\database\\cdatebaseio.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\database\\cdatebaseio.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/database/cdatebaseio.cpp"
+},
+{
+  "directory": "D:/wg/work/EnglishStudy/cppSrc/build",
+  "command": "C:\\Qt\\Tools\\mingw900_64\\bin\\x86_64-w64-mingw32-g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\untitled.dir\\database\\cworddate.cpp.obj -c D:\\wg\\work\\EnglishStudy\\cppSrc\\database\\cworddate.cpp",
+  "file": "D:/wg/work/EnglishStudy/cppSrc/database/cworddate.cpp"
+}
+]
